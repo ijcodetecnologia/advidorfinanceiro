@@ -1,6 +1,6 @@
 'use client'; 
 import React from 'react';
-import styles from './button.module.css';
+import styles from './Button.module.css';
 
 const Button = () => {
   return (
