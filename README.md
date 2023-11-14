@@ -1,6 +1,6 @@
 
-# Site Brilho da Magia Decorações
+# Site Advisor Financeira
 
-Site Brilho da Magia Decorações desenvolvido com React.JS pela empresa IJCode. 
+Site Advisor Financeira desenvolvido com React.JS pela empresa IJCode. 
 
 
