@@ -9,7 +9,7 @@ const Button = () => {
         className={styles.button}
         onClick={() =>
           window.open(
-            'https://api.whatsapp.com/message/PJQRB3FGKNERF1?autoload=1&app_absent=0',
+            'https://api.whatsapp.com/send?phone=5511958808914',
             'whatsapp',
           )
         }
