@@ -9,7 +9,7 @@ const Profissional = () => {
     <div className={styles.Profissional} id="profissionais">
       <Fade left>
         <div className={styles.ProfissionalImg}>
-          <img src="./img/Screenshot_5.png" alt="" />
+          <img src="./img/Cleide.jpg" alt="" />
         </div>
       </Fade>
 
