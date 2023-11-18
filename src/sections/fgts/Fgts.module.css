@@ -1,6 +1,8 @@
 .Fgts {
   display: grid;
   grid-template-columns: 1fr 2fr;
+  max-width: 1920px;
+  margin: 0 auto;
 }
 
 .FgtsImg {

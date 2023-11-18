@@ -1,17 +1,20 @@
 .Profissional {
   display: grid;
-  grid-template-columns: 1.2fr 2fr;
+  grid-template-columns: 1fr 2fr;
+  max-width: 1920px;
+  margin: 0 auto;
+  padding: 0 50px;
   /* height: 70%; */
 }
 
 .ProfissionalImg {
-  width: 100%;
-  display: grid;
-  align-items: center;
+  display: flex;
+  height: 600px;
 }
 
 .ProfissionalImg img {
-  height: 800px;
+  width: 100%;
+  object-fit: cover;
 }
 
 .ProfissionalDescricao {
