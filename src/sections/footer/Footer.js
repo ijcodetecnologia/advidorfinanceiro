@@ -63,7 +63,7 @@ const Footer = () => {
       <div className={styles.FooterCopy}>
         <p>
           Copyright© - Desenvolvido por
-          <a href="https://ijcodetecnologia.github.io/IJCode/"> IJCode</a>
+          <a href="https://ijcode.com.br/"> IJCode</a>
         </p>
       </div>
     </div>
