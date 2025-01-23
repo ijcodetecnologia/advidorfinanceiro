@@ -19,7 +19,7 @@ const Footer = () => {
           <ul>
             <li>
               <img src="./icons/whats.svg" alt="" />
-              WhatsApp: (11) 95880-8914
+              WhatsApp: (11)99294-4915 - (11)95908-3031
             </li>
             <li>
               <img src="./icons/email.svg" alt="" />
@@ -52,7 +52,7 @@ const Footer = () => {
               </a>
             </li>
             <li>
-              <a href="https://api.whatsapp.com/send?phone=5511958808914">
+              <a href="https://api.whatsapp.com/send?phone=5511992944915">
                 <img src="./icons/whats.svg" />
               </a>
             </li>

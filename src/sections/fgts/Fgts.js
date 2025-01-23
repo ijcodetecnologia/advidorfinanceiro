@@ -26,7 +26,7 @@ const Fgts = () => {
             </li>
             <li>
               <img src="./icons/check.svg" alt="" />
-              Concerse com um de nossos especialistas;
+              Converse com um de nossos especialistas;
             </li>
             <li>
               <img src="./icons/check.svg" alt="" />
