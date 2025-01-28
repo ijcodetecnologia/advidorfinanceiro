@@ -7,6 +7,10 @@
   /* height: 70%; */
 }
 
+.Profissional {
+  margin-top: 5%;
+}
+
 .ProfissionalImg {
   display: flex;
   height: 600px;
@@ -15,6 +19,7 @@
 .ProfissionalImg img {
   width: 100%;
   object-fit: cover;
+  border-radius: 8px;
 }
 
 .ProfissionalDescricao {
@@ -51,7 +56,7 @@
 }
 
 @media (max-width: 1900px) {
-  .ProfissionalImg img {
+  .ProfissionalImg {
     height: 500px;
   }
   .ProfissionalDescricao {
@@ -73,8 +78,9 @@
 }
 
 @media (max-width: 1024px) {
-  .ProfissionalImg img {
+  .ProfissionalImg {
     height: 400px;
+    margin-top: 5%;
   }
   .ProfissionalDescricao span {
     font-size: 1rem;
@@ -89,7 +95,7 @@
 }
 
 @media (max-width: 850px) {
-  .ProfissionalImg img {
+  .ProfissionalImg {
     height: 300px;
   }
   .ProfissionalDescricao span {
@@ -107,7 +113,7 @@
   .Profissional {
     grid-template-columns: 1fr;
     text-align: center;
-    padding-top: 15%;
+    /* padding-top: 15%; */
   }
   .ProfissionalDescricao span {
     font-size: 0.8rem;
@@ -121,14 +127,15 @@
   .ProfissionalImg {
     justify-content: center;
   }
-  .ProfissionalImg img {
-    border-radius: 8px;
-  }
 }
 
 @media (max-width: 425px) {
+  .ProfissionalImg {
+    margin-top: 0px;
+  }
   .ProfissionalImg img {
     height: 280px;
+    padding: 0% 5%;
   }
   .ProfissionalDescricao {
     padding: 20% 5%;
