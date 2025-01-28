@@ -10,7 +10,7 @@ const Banner = () => {
         <div className={styles.BannerTexto}>
           <Fade left>
             <span>Financeira</span>
-            <h1>Advirsor Soluções Financeiras</h1>
+            <h1>Advisor Soluções Financeiras</h1>
             <p>
               Oferecemos empréstimos sob medida e orientação confiável sobre o
               FGTS. Nossa equipe de especialistas experientes garante taxas
